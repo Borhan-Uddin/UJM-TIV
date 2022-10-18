@@ -35,4 +35,4 @@ Biblatex entry:
   year={2022},
   publisher={MDPI}
 ```
-I you have any questions feel free to contact me at `borhancse.cu@gmail.com`.
+If you have any questions feel free to contact me at `borhancse.cu@gmail.com`.

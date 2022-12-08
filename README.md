@@ -3,7 +3,7 @@
 
 Here is an example of a sample from 11 differnt categories:
 ![Sample Images](imgs/sample_imgs.PNG)
-In the above image `a. aluniminum foil`, `b. brown bread`, `c. corduroy`, `d. cork`, `e. cotton`, `f. cracker`, `g. lettuce leaf`, `i. linen`, `j. white bread`, `k. wood` and `l. wool`.
+In the above image `a. aluniminum foil`, `b. brown bread`, `c. corduroy`, `d. cork`, `e. cotton`, `f. cracker`, `g. lettuce leaf`, `h. linen`, `i. white bread`, `j. wood` and `k. wool`.
 
 Each view folder contains images of 11 material categories captured with specific viewing and lighting conditions. The viewing and lighting conditions for the selected view images are shown in the following image:
 ![View Image](imgs/view_image_conditions.PNG)

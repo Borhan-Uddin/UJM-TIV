@@ -37,6 +37,8 @@ Images in each folder are named in format SampleNo_ImageNo_PatchNo_ExtractedImag
 | 	view14| 	Image 14 & 30	| 
 | 	view15| 	Image 15 & 31	| 	 
 | 	view16| 	Image 16 & 32	| 
+
+
 To split the views into train, test and validation folders [Python Split folders](https://github.com/jfilter/split-folders) module can be used.
 
 If you use UJM TIV in a scientific publication, we would appreciate references to the following paper:

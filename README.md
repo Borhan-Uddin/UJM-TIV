@@ -18,6 +18,25 @@ In this research we introduced multi-view learning solution for the material cla
 
 ![Siamese Architecture](imgs/siamese_architecture.PNG)
 
+Images in each folder are named in format SampleNo_ImageNo_PatchNo_ExtractedImageFromPatch e.g S1_img_2_patch_7_8.JPG. Images for different views are chosen according to following table if its exist since for some sample it was difficult to extract patches as it was too blurry.
+| 	View	  | 	Image No	 	|
+| 	:-----:	| 	:-----:	 		|
+| 	view1	| 	Image 1 & 17	| 
+| 	view2	| 	Image 3 & 19	| 
+| 	view3	| 	Image 2 & 18	| 
+| 	view4	| 	Image 8 & 24	| 
+| 	view5	| 	Image 16 & 22	| 
+| 	view6	| 	Image 9 & 25	| 
+| 	view7	| 	Image 4 & 20	| 
+| 	view8	| 	Image 7 & 23	| 
+| 	view9	| 	Image 5 & 21	| 
+| 	view10| 	Image 10 & 26	| 
+| 	view11| 	Image 11 & 27	| 
+| 	view12| 	Image 12 & 28	| 
+| 	view13| 	Image 13 & 29	| 
+| 	view14| 	Image 14 & 30	| 
+| 	view15| 	Image 15 & 31	| 	 
+| 	view16| 	Image 16 & 32	| 
 To split the views into train, test and validation folders [Python Split folders](https://github.com/jfilter/split-folders) module can be used.
 
 If you use UJM TIV in a scientific publication, we would appreciate references to the following paper:
